@@ -1,0 +1,36 @@
+@media screen and (min-width: 768px) {
+bootstrap.css:4988 }
+.jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+	background-color: #d1ffd1;
+	padding-top: 70px;
+}
+
+.navbar-default {
+	background-color: #278e2e;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color:white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.jumbotron {
+	background-color: #f6fff4;
+	color: #278e2e;
+}
+
+.jumbotron i {
+	color: #006006;
+}
